@@ -16,7 +16,6 @@
 
 
 # Please output
-![image](https://github.com/user-attachments/assets/5f9177be-7cff-4b27-9202-520043c53a08)
 ![image](https://github.com/user-attachments/assets/543d7abc-fa58-4a18-8208-10fcdf5960de)
 
 # Thanks output
